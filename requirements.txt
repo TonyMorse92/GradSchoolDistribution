@@ -1,0 +1,18 @@
+####### Version shouldn't matter for any of these
+
+# Get the website with requests
+requests
+
+# For parsing HTML
+beautifulsoup4
+
+# Notebooks for scratchwork
+notebook
+
+# Eventually putting things in a database
+mysql-connector-python
+
+# Packages for data analysis that I will eventually get to
+numpy
+matplotlib
+pandas
