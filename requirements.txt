@@ -15,4 +15,10 @@ mysql-connector-python
 # Packages for data analysis that I will eventually get to
 numpy
 matplotlib
+scipy
 pandas
+joblib
+scikit-image
+scikit-learn
+
+
